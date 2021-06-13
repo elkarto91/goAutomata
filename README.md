@@ -1,2 +1,2 @@
-# goWhale
-Boilerplate for large projects
+# goAutomata
+Large Microservices project.
